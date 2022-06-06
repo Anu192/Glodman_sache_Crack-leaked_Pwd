@@ -51,7 +51,7 @@ Ans: i) The password must be of minimum 8 characters.
    iii)An external Api based tool which checks for password strength should show that the used password is strong.
 ```
 #### Complete report is available at:
-
+(https://github.com/Anu192/Glodman_sache_Crack-leaked_Pwd/blob/Glodman_sache_Crack-leaked_Pwd/Glodman_sache_Crack-leaked_Pwd/Report-of-Goldman_Sachs_Crack_Leaked_Password_Database.pdf)
 
 ## Resources
 https://arstechnica.com/information-technology/2013/05/how-crackers-make-minced-meat-out-of-your-passwords/
